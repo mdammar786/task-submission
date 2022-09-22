@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mdammar786/task-submission/static/css/main.50f83d81.css",
+    "main.js": "/mdammar786/task-submission/static/js/main.b506cd71.js",
+    "index.html": "/mdammar786/task-submission/index.html",
+    "main.50f83d81.css.map": "/mdammar786/task-submission/static/css/main.50f83d81.css.map",
+    "main.b506cd71.js.map": "/mdammar786/task-submission/static/js/main.b506cd71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50f83d81.css",
+    "static/js/main.b506cd71.js"
+  ]
+}
