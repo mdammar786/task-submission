@@ -3,7 +3,7 @@ import './App.css';
 import Navigation from './components/Navigation/Navigation';
 import Signin from './components/Signin/Signin';
 import Signup from './components/Signup/Signup';
-// import Logo from './components/Logo/Logo';
+import Logo from './components/Logo/Logo';
 import Profile from './components/Profile/Profile';
 
 
@@ -35,7 +35,7 @@ class App extends Component {
         <Navigation isSignedIn={isSignedIn} onRouteChange={this.onRouteChange} />
         {route === 'home'
           ? <div>
-            {/* <Logo /> */}
+            <Logo />
             <Profile/>
           </div>
           : (
