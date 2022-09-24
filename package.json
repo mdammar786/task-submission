@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/mdammar786/task-submission",
   "name": "task-submission",
+  "homepage": "https://github.com/mdammar786/task-submission",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
